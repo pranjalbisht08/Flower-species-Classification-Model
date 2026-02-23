@@ -1,2 +1,2 @@
 # Flower-species-Classification-Model
-A basic classification model in Machine Learning.
+This is a basic classification model in Machine Learning, which help user understand how does a simple classifier works ,using a Flower species iris dataset. 
